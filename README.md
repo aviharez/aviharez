@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syifa Nurzain (@aviharez)
 - 👀 I’m interested in many things about programming and gaming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning unreal engine 
 - 📫 You can reach me on email elzainsyifa@gmail.com
 
 <!---
